@@ -4,7 +4,6 @@ public class TestHello {
         System.out.println("new line 12");
         System.out.println("Hello people");
         System.out.println("hello students");
-        System.out.println("hi this line changed by randika");
-
+        System.out.println("hi this line is changed by randika perera");
     }
 }
